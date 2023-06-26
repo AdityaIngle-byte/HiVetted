@@ -1,0 +1,1 @@
+export const template3Avatar = 'template-3-avatar'
